@@ -1,8 +1,7 @@
+
+This library enables connection with some oscilloscopes and signal generators.
+
 Dev. environment: Python 3.5 de 32 bits.
-
-DESCRIPCIÓN:
-This library enables connection with some oscilloscopes and signal genrators.
-
 Dependencies:
 - Drivers for the instruments to use.
 - C-types for modules that use C compiled libraries.
